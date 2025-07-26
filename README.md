@@ -19,6 +19,12 @@
 </div>
 
 ---
+## 📜 许可协议
+
+> 本项目遵循 MIT 协议，欢迎 Fork、改造、商用，              只需保留原作者署名即可。
+
+© 2025 <a href="https://github.com/Reviewa" target="_blank" rel="noopener noreferrer">Reviewa</a>
+---
 
 ## 🚀 项目简介
 
@@ -46,10 +52,4 @@ FlavorScript/
 ├── 菜品名称.formula
 ├── LICENSE
 └── README.md
----
-## 📜 许可协议
-
-> 本项目遵循 MIT 协议，欢迎 Fork、改造、商用，              只需保留原作者署名即可。
-
-© 2025 <a href="https://github.com/Reviewa" target="_blank" rel="noopener noreferrer">Reviewa</a>
 ---
