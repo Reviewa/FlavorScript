@@ -1,3 +1,20 @@
+<p align="center">
+  <a href="https://github.com/Reviewa/FlavorScript">
+    <img src="https://img.shields.io/badge/FlavorScript-v1.0.0-brightgreen" alt="Version" />
+  </a>
+  &nbsp;
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Reviewa/FlavorScript/stargazers">
+    <img src="https://img.shields.io/github/stars/Reviewa/FlavorScript?style=social" alt="Stars" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Reviewa/FlavorScript/network/members">
+    <img src="https://img.shields.io/github/forks/Reviewa/FlavorScript?style=social" alt="Forks" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener noreferrer" >
