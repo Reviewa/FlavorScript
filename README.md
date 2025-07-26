@@ -50,9 +50,9 @@ FlavorScript 采用 `.formula` 结构化格式，
 
 ```plaintext
 FlavorScript/
-├── mapo_doufu.formula
-├── qingchao_xilanhua.formula
-├── yuxiang_qiezi.formula
+├── 菜品名称.formula
+├── 菜品名称.formula
+├── 菜品名称.formula
 └── README.md
 
 ---
