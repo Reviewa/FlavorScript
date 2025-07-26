@@ -46,6 +46,7 @@ FlavorScript/
 ├── 菜品名称.formula
 ├── LICENSE
 └── README.md
+---
 ## 📜 许可协议
 
 > 本项目遵循 MIT 协议，欢迎 Fork、改造、商用，              只需保留原作者署名即可。
