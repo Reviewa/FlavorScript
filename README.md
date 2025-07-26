@@ -1,3 +1,5 @@
+🌍 全球适配｜🍜 无国界配方｜💡 可扩展结构｜🧑‍🍳 一看就会做
+
 <p align="center">
   <a href="https://github.com/Reviewa/FlavorScript">
     <img src="https://img.shields.io/badge/FlavorScript-v1.0.0-brightgreen" alt="Version" />
