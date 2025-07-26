@@ -57,13 +57,6 @@ FlavorScript/
 
 ---
 
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License" />
-  </a>
-</p>
-
----
 
 
 
