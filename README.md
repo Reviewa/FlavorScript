@@ -53,4 +53,5 @@ FlavorScript/
 ├── 菜品名称.formula
 ├── 菜品名称.formula
 ├── 菜品名称.formula
+├── LICENSE
 └── README.md
