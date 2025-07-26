@@ -26,7 +26,7 @@
 
 > 欢迎 Fork、自由改造及商用，  
 > 只需保留原作者署名即可。
-
+© 2025 <a href="https://github.com/Reviewa" target="_blank" rel="noopener noreferrer">Reviewa</a>
 ---
 
 ## 🚀 项目简介
@@ -65,11 +65,5 @@ FlavorScript/
 
 ---
 
-## 许可协议
 
-欢迎 Fork、自由改造及商用，  
-只需保留原作者署名即可。
 
----
-
-© 2025 <a href="https://github.com/Reviewa" target="_blank" rel="noopener noreferrer">Reviewa</a>
