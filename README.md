@@ -18,11 +18,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener noreferrer" >
-    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License" />
-  </a>
-</p>
+
 
 <h1 align="center" style="font-weight: 800; color: #ff6f61;">FlavorScript</h1>
 
