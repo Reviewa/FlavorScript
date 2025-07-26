@@ -1,4 +1,4 @@
-🌍 全球适配｜🍜 无国界配方｜💡 可扩展结构｜🧑‍🍳 一看就会做
+🌍 全球适配｜🍜 无国界配方｜🧑‍🍳 一看就会做
 
 <p align="center">
   <a href="https://github.com/Reviewa/FlavorScript">
