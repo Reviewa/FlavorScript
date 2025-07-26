@@ -6,4 +6,4 @@
 ## License
 
 This project is licensed under the MIT License.  
-© 2025 [Qiq](https://github.com/Reviewa)
+© 2025 [Reviewa](https://github.com/Reviewa)
